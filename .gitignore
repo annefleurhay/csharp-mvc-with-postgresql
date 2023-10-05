@@ -483,3 +483,5 @@ $RECYCLE.BIN/
 
 /exercise.api/appsettings.json
 /exercise.api/appsettings.Development.json
+/appsettings.Development.json
+/appsettings.json
